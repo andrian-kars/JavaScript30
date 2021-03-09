@@ -1,2 +1,6 @@
 # JavaScript30
-30 js things in 30 days challange
+
+## 30 Day Vanilla JS Coding Challenge
+
+
+## No Frameworks × No Compilers × No Libraries × No Boilerplate
